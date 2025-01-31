@@ -1,6 +1,6 @@
 # 環境構築
 
-`pnpm create effect-app@latest` で作成。
+`pnpm create effect-app@latest` で作成。  
 
 ```
 ✔ What is your project named? … .
