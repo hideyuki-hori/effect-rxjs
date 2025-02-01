@@ -1,6 +1,6 @@
 {
   "extends": "./tsconfig.base.json",
-  "include": ["test", "src/helllo-world.test.ts"],
+  "include": ["test", "src/*.test.ts"],
   "references": [
     { "path": "tsconfig.src.json" }
   ],
